@@ -1,3 +1,4 @@
+#include <cstddef>
     void func(void *foo) {
       /* Execution of thread */
     }
@@ -17,3 +18,4 @@
 
       return 0;
     }
+    
